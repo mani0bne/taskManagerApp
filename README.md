@@ -30,6 +30,6 @@ src/
 │── main.jsx
 │── index.css
 
-##Install Dependencies: npm install
+## Install Dependencies: npm install
 
-##Run code: npm run dev
+## Run code: npm run dev
